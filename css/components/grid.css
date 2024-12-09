@@ -1,0 +1,14 @@
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.grid-center {
+    justify-content: center;
+}
+
+.grid-space-between {
+    justify-content: space-between;
+}
